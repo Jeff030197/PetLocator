@@ -5,7 +5,7 @@ function Navbar() {
    <div>
   <div className='container-2xl bg-red-200'>
     <div className='flex text-start text-2xl ml-5'>
-        Pet Locator Sample
+        Pet Locator 
     </div>
 
   </div>
